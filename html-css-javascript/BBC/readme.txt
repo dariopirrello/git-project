@@ -1,0 +1,1 @@
+Nel primo step ho replicato la barra della bbc, il sito è un sito statico
